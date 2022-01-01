@@ -102,6 +102,6 @@
  No terminal digite o comando abaixo para adicionar o pacote do entity framework e depois execute o algoritimo principal.
 ```Code
 dotnet add package Microsoft.EntityFrameworkCore.SqlServer
-
+dotnet add  package Microsoft.EntityFrameworkCore.Design
 dotnet run
 ```
